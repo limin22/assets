@@ -1,0 +1,11 @@
+{
+  "name": "EchoCoin",
+  "symbol": "ECO",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "EchoCoin (ECO) is a utility token created for digital reward and engagement within the Echo ecosystem.",
+  "website": "",
+  "explorer": "https://bscscan.com/token/0x40e3a29643BabD996d0fc28a578a38D722783F41",
+  "status": "active",
+  "id": "0x40e3a29643BabD996d0fc28a578a38D722783F41"
+}
